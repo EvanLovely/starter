@@ -1,15 +1,8 @@
 {
-  "name": "ubersicht-desktop",
+  "name": "starter",
   "version": "0.0.1",
-  "description": "Desktop Widgets for Mac",
-  "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
-  },
-  "keywords": [
-    "ubersicht",
-    "mac"
-  ],
+  "description": "",
+  "keywords": [],
   "author": "Evan Lovely",
   "license": "MIT",
   "devDependencies": {
